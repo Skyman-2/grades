@@ -1,0 +1,98 @@
+.bold {
+    font-weight: bold;
+}
+
+.material-symbols-outlined {
+    padding-bottom: 4px;
+    vertical-align: middle;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+}
+
+main {
+    margin-top: 50px !important;
+}
+
+table {
+    margin-top: 20px;
+}
+
+thead {
+    font-size: 1.15rem;
+    border-inline: 1px solid #CCC;
+}
+
+thead th {
+    text-align: center;
+    border-radius: 0;
+}
+
+tbody {
+    font-size: 1.1rem;
+}
+
+tbody td {
+    border-inline: 1px solid #CCC;
+    padding-block: 9px
+}
+
+.table-grade {
+    margin-right: 8px;
+}
+
+.table-grade:hover {
+    cursor: pointer;
+}
+
+input {
+    padding-left: 5px;
+}
+
+.grade-wrapper {
+    border: none;
+    background-color: transparent;
+    border-radius: 3px;
+    position: relative;
+    margin-right: 10px;
+}
+.grade-wrapper:focus {
+    background-color: transparent;
+}
+.grade-wrapper:hover {
+    background-color: #EEE;
+    cursor: pointer;
+}
+
+.grade-value {
+    /* idk... */
+}
+
+.grade-maxpoints {
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-left: -4px;
+}
+
+.grade-coef {
+    font-size: 0.7rem;
+    font-weight: bold;
+    font-family: monospace;
+    vertical-align: top;
+}
+
+.newFieldsForm {
+    margin-top: 16px;
+}
+
+h5 {
+    margin-top: 4px !important;
+}
+
+.details-wrapper {
+    margin-top: 20px;
+    line-height: 8px;
+}
+
